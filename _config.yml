@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+title: Stefan B. Neagu
+layout: default
+logo:
+twitter:
+  - username: stefanbneagu
+social:
+  links:
+    - https://twitter.com/stefanbneagu
+bio: I am an engineer.
